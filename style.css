@@ -21,14 +21,16 @@ input[type="button"] {
     height: 80px;
     font-size: 22px;
     margin: 3px 3px 3px 3px;
+    border-radius: 25px;
   }
 
   #display{
     width: 348px;
-    height: 55px;
+    height: 61px;
     font-size: 25px;
     color: black;
-    margin-bottom: 30px;
+    margin-bottom: 38px;
+    border-radius: 20px;
   }
 
   #calkut{
@@ -37,6 +39,7 @@ input[type="button"] {
     background-color: black;
     margin: 0 auto;
     margin-top: 50px;
+    border-radius: 25px;
   }
 
   table{
